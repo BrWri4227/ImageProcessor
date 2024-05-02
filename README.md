@@ -22,6 +22,6 @@ A small python program that does basic image processing functions.
    ```
 3. Clone this repository
    ```
-   git clone##
+   git clone https://github.com/BrWri4227/ImageProcessor.git
 4. Run the program
    py main.py
